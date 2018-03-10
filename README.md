@@ -9,3 +9,8 @@ In Alexa developer console u can create a project and add the intents, utterence
 
 Skill is certified and available in amazon website :
 https://www.amazon.com/Unisys-Lets-meet-or-not/dp/B073WWFT4L/ref=sr_1_1?s=digital-skills&ie=UTF8&qid=1520676648&sr=1-1&keywords=unisys
+
+
+Skill ID
+Lets meet or not
+amzn1.ask.skill.79f483d8-e088-49ef-91d2-cefa06c9b197
