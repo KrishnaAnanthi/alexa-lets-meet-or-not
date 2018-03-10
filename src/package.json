@@ -1,0 +1,12 @@
+{
+  "name": "DecisionTree",
+  "version": "1.0.0",
+  "description": "Alexa Decision Tree",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.0"
+  },
+  "devDependencies": {},
+  "author": "krishnaAnanthi",
+  "license": "SEE LICENSE IN license.md"
+}
